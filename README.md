@@ -1,4 +1,7 @@
-This repo contains the jupyter notebook for the group project and the zip of all the data provided from kaggle
+This repo contains the jupyter notebook for the group project
+
+You will need to download the data from kaggle by following this link
+https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/data
 
 You will want to place the .csv files in the same folder as the notebook.
 
